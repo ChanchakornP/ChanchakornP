@@ -2,11 +2,6 @@
 
 #### I'm Game, a machine learning engineer in Thailand.
 
-#### Technologies & Tools
-![Python](https://img.shields.io/badge/Code-Python-blue)
-![Javascript](https://img.shields.io/badge/Code-Javascript-blue)
-![Docker](https://img.shields.io/badge/Tools-Docker-blue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical)
 <!--
 **ChanchakornP/ChanchakornP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
