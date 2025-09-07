@@ -1,7 +1,10 @@
 ### Welcome to my Github Profile  👋
 
-I am a current Master of Computer Science student at The University of Sydney, specializing in deep learning projects.
-Please checkout [Portfolio](https://my-portfolio-ten-opal-40.vercel.app/) URL to watch my background.
+Please checkout [Portfolio](https://my-portfolio-three-ivory-68.vercel.app/) URL to watch my background.
+
+Machine Learning Engineer with hands-on experience in deep learning, computer vision, natural language processing, and backend
+development. Demonstrated success improving OCR accuracy using transformer-based models, deploying scalable ML pipelines, and
+winning multiple AI hackathons
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical)
 <!--
